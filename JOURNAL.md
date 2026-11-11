@@ -3,7 +3,7 @@ title: "Electronics Storage"
 github: ""
 description: "A small 3D-printed drawer for storing and organising electronic components like resistors, transistors, leds and other small parts.\ndesigned to fit on your desktop"
 created_at: "2026-11-10"
-total_time: "7h"
+total_time: "8h"
 ---
 
 # November 10, 2026: Made a 2d sketch.
@@ -38,3 +38,11 @@ Here you can see I made some dividers for the drawers so you can separate equipm
 You can also see the sliders where the drawers glide on. These are very simple but JUST work. Nothing fancy.
 
 **Total time spent: 5h**
+
+# November 11, 2026: Its done!!
+
+at my last post it was almost done i still made some minor changes mostly with fillet but now it is done here is the final product i will be shipping it shortly after.
+
+![](https://fabricate.hackclub-assets.com/a42802e5692417a360a25a50f815ca8a305c49600675aab23ef60d83910923d3/image-png/Screenshot%202026-11-11%20160858.png)
+
+**Total time spent: 1h**
